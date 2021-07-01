@@ -1,0 +1,4 @@
+node_modules
+.env
+shipitfile.js
+ecosystem.config.js
